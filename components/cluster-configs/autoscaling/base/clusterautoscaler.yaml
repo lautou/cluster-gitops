@@ -6,7 +6,7 @@ spec:
   balanceSimilarNodeGroups: true
   podPriorityThreshold: -10
   resourceLimits:
-    maxNodesTotal: 12
+    maxNodesTotal: 21
     cores:
       min: 0
       max: 96
